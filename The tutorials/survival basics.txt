@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<title>MC FAN PAGE</title>
+<html>
+<head>
+<style>
+body  {
+    background-image: url("http://orig11.deviantart.net/1233/f/2013/081/9/c/hd_stone_background_by_supertwistedgaming-d5ywlyk.jpg");
+    background-color: #cccccc;
+}
+</style>
+<style>
+h1   {color: blue;}
+p    {color: red;} 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="C:\Users\husam\Desktop\HTML and CSS\Index.html">Home</a></li>
+</ul>

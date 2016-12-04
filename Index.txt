@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<title>MC FAN PAGE</title>
+<html>
+<head>
+<style>
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="C:\Users\husam\Desktop\HTML and CSS\Index.html">Home</a></li>
+  <li><a href="C:\Users\husam\Desktop\HTML and CSS\minecraft_update_section.html">Updates</a></li>
+  <li><a href="C:\Users\husam\Desktop\HTML and CSS\thegame.html">How to Play</a></li>
+  <li style="float:right"><a class="active" href="C:\Users\husam\Desktop\HTML and CSS\About.html">About</a></li>
+</ul>
+
+</body>
+</html>
+
+<style>
+
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+
+}
+p  {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+
+</style>
+</head>
+<body>
+
+<h1>The Minecraft Fan Website</h1>
+
+<img src="C:\Users\husam\Desktop\HTML and CSS\11.png" alt="11" width="900" height="200">
+
+<p>This website is all about Minecraft, In here you will learn the amazing world of Minecraft.</p>
+
+<p><a href="https://minecraft.net/en/">Visit and Download the Game here!</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmB9b5njVbA" frameborder="0" allowfullscreen></iframe>
+
+
+<footer>Copyright © Husam 2016</footer>
+
+<style>
+footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center; 
+
